@@ -1,0 +1,6 @@
+/home/navindu/DC/Worksheet01/TrueMarbleData/TrueMarbleData/bin/Debug/TrueMarbleData.exe
+/home/navindu/DC/Worksheet01/TrueMarbleData/TrueMarbleData/bin/Debug/TrueMarbleData.pdb
+/home/navindu/DC/Worksheet01/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.csproj.CoreCompileInputs.cache
+/home/navindu/DC/Worksheet01/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.csproj.CopyComplete
+/home/navindu/DC/Worksheet01/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.exe
+/home/navindu/DC/Worksheet01/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.pdb

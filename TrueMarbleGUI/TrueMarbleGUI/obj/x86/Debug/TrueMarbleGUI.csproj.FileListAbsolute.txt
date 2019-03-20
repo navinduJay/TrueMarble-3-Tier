@@ -1,0 +1,12 @@
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleGUI.exe
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleGUI.pdb
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleData.exe
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleLibrary.dll
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleData.pdb
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.csproj.CoreCompileInputs.cache
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.csproj.CopyComplete
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.exe
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.pdb
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.csprojAssemblyReference.cache
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleBiz.exe
+/home/navindu/DC/Worksheet01/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleBiz.pdb

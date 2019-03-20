@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A750E0A3-C4D3-4300-A89F-7BA57754231F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrueMarbleBiz/TMBizControllerImpl.cs">
+    <Files>
+      <File FileName="TrueMarbleBiz/Program.cs" Line="18" Column="34" />
+      <File FileName="TrueMarbleBiz/ITMBizController.cs" Line="17" Column="28" />
+      <File FileName="TrueMarbleBiz/TMBizControllerImpl.cs" Line="81" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.TrueMarbleBiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

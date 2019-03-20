@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1FBBA087-7736-4AFE-A9B5-F8F43E073FFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrueMarbleData/TMDataControllerImpl.cs">
+    <Files>
+      <File FileName="TrueMarbleData/TMDataControllerImpl.cs" Line="29" Column="10" />
+      <File FileName="TrueMarbleData/DataServer.cs" Line="22" Column="17" />
+      <File FileName="TrueMarbleData/ITMDataController.cs" Line="10" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TrueMarbleData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
