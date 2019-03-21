@@ -1,5 +1,6 @@
 # TrueMarble-3-Tier
-Distributed Computing Assignment 01
+TrueMarble is an application for browsing satellite images of the entire Earth down to a resolution of 2 kilometres per
+pixel.
 
 <h1>Getting Started</h1>
 
