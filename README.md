@@ -17,6 +17,6 @@ pixel.
   <li>Clone this to your computer</li>
   <li>Import TrueMarbleLibrary folder into the following path </li>
 </ol>
-  ``` TrueMarbleData/bin/Debug ```
+  ``` TrueMarbleData ```
 
 
