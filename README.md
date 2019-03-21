@@ -25,4 +25,9 @@ pixel.
 
 ``` mono TrueMarble.exe ```
 
+<li>Now your Server is up and running...</li>
+<li>In order to get the business tier running, go to TrueMarbleBiz directory's Debug folder and open that in terminal and run</li>
+
+``` mono TrueMarbleBiz.exe ```  
+
 </ol>
