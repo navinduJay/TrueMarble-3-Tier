@@ -14,8 +14,8 @@ pixel.
 
 <h1>Getting started</h1>
 <ol>
-  <li>First clone this to your computer</li>
-  <li>
+  <li>Clone this to your computer</li>
+  <li>Import TrueMarbleLibrary folder into the following path ``` ddd ```
   
     
   
