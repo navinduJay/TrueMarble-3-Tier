@@ -30,4 +30,8 @@ pixel.
 
 ``` mono TrueMarbleBiz.exe ```  
 
+<li>Now your Server and Business tiers are up and running...</li>
+
+<li>Finally, run the GUI from Monodevelop IDE!</li>
+
 </ol>
