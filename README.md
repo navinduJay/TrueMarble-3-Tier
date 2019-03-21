@@ -20,5 +20,9 @@ pixel.
 
   ``` /TrueMarbleData/bin/Debug ```
  
+<li>Import the TrueMarbleGUI directory to the Monodevelop</li>
+<li>Go to TrueMarbleData directory's Debug folder and open that in terminal and then run</li>
+
+``` mono TrueMarble.exe ```
 
 </ol>
