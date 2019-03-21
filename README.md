@@ -18,6 +18,6 @@ pixel.
   <li>Import TrueMarbleLibrary folder into the following path </li>
 </ol>
 
-  ``` TrueMarbleData ```
+  ``` /TrueMarbleData/bin/Debug ```
 
 
