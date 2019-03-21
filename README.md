@@ -35,3 +35,6 @@ pixel.
 <li>Finally, run the GUI from Monodevelop IDE!</li>
 
 </ol>
+
+<h3>Author</h3>
+<p>Navindu Jayatilake</p>
