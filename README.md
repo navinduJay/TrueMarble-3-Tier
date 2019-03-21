@@ -1,4 +1,4 @@
-# TrueMarble-3-Tier
+# TrueMarble-3-Tier App
 
 <h3>Introduction</h3>
 TrueMarble is an application for browsing satellite images of the entire Earth down to a resolution of 2 kilometres per
