@@ -6,7 +6,7 @@ pixel.
 
 <h3>Prerequisites</h3>
 <ul>
-  <li>Linux or unixed based Operating System</li>
+  <li>Linux Operating System</li>
   <li>Monodevelop IDE</li>
   <li>Basic knowledge of C sharp </li>
   <li>Basic knowledge of the 3-Tier architecture</li>
